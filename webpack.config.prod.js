@@ -59,7 +59,7 @@ module.exports = {
         new webpack.optimize.OccurenceOrderPlugin(),
         new webpack.NoErrorsPlugin(),
         new HtmlWebpackPlugin({
-            title: 'Pekkis Goes To Movies',
+            title: 'TOP SECRET TODO',
             template: 'web/index.prod.html',
             favicon: 'web/favicon.ico',
             inject: 'body',
